@@ -1,0 +1,1 @@
+file3.txt added to show git add functionality in cloned repository.
