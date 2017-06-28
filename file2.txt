@@ -4,3 +4,7 @@ The second file is updated.
 Updating second file again after deleting file3.txt to show modify functionality.
 
 Editing from git repo to pull changes from local repo.
+
+
+
+Making changes to fetch and merge.
