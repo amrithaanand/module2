@@ -11,3 +11,6 @@ Adding a feature to show Merge type 1 for normal merge.
 
 
 Adding feature for reccursive merge.
+
+
+Adding feature for rebase.
